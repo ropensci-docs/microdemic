@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://docs.ropensci.org/microdemic/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/microdemic/reference/ma_abstract.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/microdemic/reference/ma_calchist.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/microdemic/reference/ma_evaluate.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/microdemic/reference/ma_graph_search-defunct.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/microdemic/reference/ma_interpret.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/microdemic/reference/ma_search.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/microdemic/reference/ma_similarity-defunct.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/microdemic/reference/microdemic-package.html</loc>
+  </url>
+</urlset>

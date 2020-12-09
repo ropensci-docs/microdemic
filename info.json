@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "b800bddeda963b3f2f82ca301026acf0a69f827e",
+    "author": "Scott Chamberlain <sckott@fastmail.com>",
+    "time": "2020-12-09 22:55:01",
+    "files": 5,
+    "merge": false,
+    "message": "fix #19 fix error catching in ma_evaluate - bump version\n"
+  },
+  "remote": "https://github.com/ropensci/microdemic",
+  "pkg": "microdemic"
+}
